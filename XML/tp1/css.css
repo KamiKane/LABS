@@ -1,0 +1,12 @@
+*{
+	font-family : monospace;
+	display : block; 
+	margin : 5em 5em; 
+	background-color : rebeccapurple; 
+	color : white;
+}
+
+future-card{
+	font-size : 2em;
+	
+}

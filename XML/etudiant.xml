@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="etudiant.xsl" type="text/xsl"  ?>
+
+
+<esmt>
+	<etudiant>
+		<matricule>A001</matricule>
+		<nom>NDOYE</nom>
+		<prenom>Baye</prenom>
+		<classe>MPSI1</classe>
+		<adresse>
+			<rue>SAC</rue>
+			<villa>10022</villa>
+			<region>Dakar</region>
+		</adresse>
+		<moyenne>10</moyenne>
+	</etudiant>
+	<etudiant>
+		<matricule>A002</matricule>
+		<nom>SARR</nom>
+		<prenom>Habib</prenom>
+		<classe>MPSI1</classe>
+		<adresse>
+			<rue>SAC</rue>
+			<villa>1023</villa>
+			<region>Dakar</region>
+		</adresse>
+		<moyenne>12</moyenne>
+	</etudiant>
+	<etudiant>
+		<matricule>A003</matricule>
+		<nom>DIOUF</nom>
+		<prenom>Mami</prenom>
+		<classe>MPSI1</classe>
+		<adresse>
+			<rue>SAC</rue>
+			<villa>122</villa>
+			<region>Dakar</region>
+		</adresse>
+		<moyenne>17</moyenne>
+	</etudiant>
+</esmt>

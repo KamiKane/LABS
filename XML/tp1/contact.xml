@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="css.css" type="text/css"?>
+
+<future-card>
+	<nom>NDOYE</nom>
+	<prenom>Baye Serigne</prenom>
+	<adresse>10449 Sac3</adresse>
+	<email>ndoybaye@gmail.com</email>
+	<telephone>
+		<tel1>+221784776148</tel1>
+		<tel2>+221338601515</tel2>
+	</telephone>
+	<situation-futur5>
+		Entrepreneur
+	</situation-futur5>
+</future-card>

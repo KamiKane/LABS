@@ -1,0 +1,12 @@
+*{
+	font-family : monospace;
+	display : block; 
+	margin : 3em 3em; 
+	background-color : rebeccapurple; 
+	color : white;
+}
+
+produit{
+	font-size : 2em;
+	
+}

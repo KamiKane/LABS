@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet href="css.css" type="text/css"?>
+
+<!DOCTYPE cv[
+	<!ELEMENT CV (section)*>
+	<!ELEMENT section (#PCDATA)>
+	<!ATTLIST section nom CDATA #REQUIRED>
+	<!ATTLIST section prenom CDATA #REQUIRED>
+	<!ATTLIST section dateNaissance CDATA #REQUIRED>
+	<!ATTLIST section situationMatrimoniale CDATA #REQUIRED>
+	<!ATTLIST section niveauEtude CDATA #REQUIRED>
+	<!ATTLIST section objectifProfessionel CDATA #REQUIRED>
+]>
+
+
+<cv>
+	<nom>
+		NDOYE
+	</nom>
+	<prenom>
+		BAYE SERIGNE 
+	</prenom>
+	<dateNaissance>
+		29/09/1997
+	</dateNaissance>
+	<situationMatrimoniale>
+		CELIBATAIRE
+	</situationMatrimoniale>
+	<niveauEtude>
+		Master 1
+	</niveauEtude>
+	<objectifProfessionel>
+		CEO-Entrepreneur
+	</objectifProfessionel>
+</cv>

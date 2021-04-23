@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="style.css" type="text.css"?>
+<!DOCTYPE universite [
+	<!ELEMENT universite >
+	<!ELEMENT faculte (#PCDATA)>
+	<!ATTLIST faculte niveau CDATA #REQUIRED>
+]>
+
+<universite>
+	<faculte niveau = "Licence 1" />Licence 1
+	<faculte niveau = "Licence 2" > Licence 2 </faculte>
+</universite>

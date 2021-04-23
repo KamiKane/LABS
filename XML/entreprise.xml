@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<?xml-stylesheet href="entreprise.xsl" type="text/xsl"  ?>
+
+<entreprise>
+	<employe>
+		<matricule>A00001</matricule>
+		<nom>NDOYE</nom>
+		<prenom>Baye</prenom>
+		<service>IT</service>
+		<fonction>Analiste sécurité</fonction>
+		<salaire>1200000</salaire>
+		<situationMatrimoniale>Célibataire</situationMatrimoniale>
+		<tel1>+221123456723</tel1>
+		<tel2>+221336679192</tel2>
+	</employe>
+	<employe>
+		<matricule>A00002</matricule>
+		<nom>Anne</nom>
+		<prenom>Malick</prenom>
+		<service>IT</service>
+		<fonction>Analiste sécurité</fonction>
+		<salaire>1500000</salaire>
+		<situationMatrimoniale>Marié 5 enfants</situationMatrimoniale>
+		<tel1>+221123456723</tel1>
+		<tel2>+221336679192</tel2>
+	</employe>
+	<employe>
+		<matricule>A00003</matricule>
+		<nom>Wagane</nom>
+		<prenom>Jules</prenom>
+		<service>Marketing</service>
+		<fonction>Responsable Marketing</fonction>
+		<salaire>1000000</salaire>
+		<situationMatrimoniale>Célibataire</situationMatrimoniale>
+		<tel1>+221123456723</tel1>
+		<tel2>+221336679192</tel2>
+	</employe>
+	<employe>
+		<matricule>A0004</matricule>
+		<nom>DIOUF</nom>
+		<prenom>Alsanne</prenom>
+		<service>RH</service>
+		<fonction>Responsable RH</fonction>
+		<salaire>2000000</salaire>
+		<situationMatrimoniale>Marié</situationMatrimoniale>
+		<tel1>+221123456723</tel1>
+		<tel2>+221336679192</tel2>
+	</employe>
+	<employe>
+		<matricule>A0005</matricule>
+		<nom>DIOP</nom>
+		<prenom>Aminata</prenom>
+		<service>compatabilité</service>
+		<fonction>Caissiere</fonction>
+		<salaire>500000</salaire>
+		<situationMatrimoniale>Marié</situationMatrimoniale>
+		<tel1>+221123456723</tel1>
+		<tel2>+221336679192</tel2>
+	</employe>
+</entreprise>

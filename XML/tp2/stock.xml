@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="css.css" type="text/css"?>
+
+<!DOCTYPE stock[
+	<!ELEMENT stock (produit)*>
+	<!ELEMENT produit (#PCDATA)>
+	<!ATTLIST produit code CDATA #REQUIRED>
+	<!ATTLIST produit nom CDATA #REQUIRED>
+	<!ATTLIST produit categorie CDATA #REQUIRED>
+	<!ATTLIST produit prix CDATA >
+	<!ATTLIST produit quantite CDATA #REQUIRED>
+	<!ATTLIST produit fournisseur CDATA #REQUIRED>
+]>
+
+
+<stock>
+	<produit code="1" nom="chemise bleue" categorie="habillement" 
+		prix="200000" quantite="3" fournisseur="Boutique du coin">
+		Chemise Bleu
+	</produit>
+	<produit code="2" nom="Razer Blade" categorie="Informatique" prix="2000000"
+		quantite="1" fournisseur= "Razer USA">
+		Razer Blade Black
+	</produit>
+	
+	<produit code="3" nom="Date El MarcoDates" categorie ="Alimentaire"
+		prix="25" quantite="200" fournisseur="Royal Marocan Dates">
+		Dates Marocaines
+	</produit>
+</stock>
