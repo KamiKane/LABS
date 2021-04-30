@@ -5,6 +5,7 @@ import Student from './Student'
 export default class Classroom extends Component {
     constructor(props){
         super();
+
         this.state = {
             students : [
                 {id:1, nom:"Fatou Dia"},
@@ -13,10 +14,24 @@ export default class Classroom extends Component {
                     
             ]
         }
+        this.handleDelete = this.handleDelete.bind(this);
+        this.handleDeleteAll = this.handleDeleteAll.bind(this);
     }
+
     handleDelete(id){
-        this.setState(prevState => ({student : prevState.students.filter(student =>student.id !== id)}))
+        this.setState(prevState => (
+            {students : prevState.students.filter(
+                student =>student.id !== id)
+            }
+            )
+            )
     }
+    handleDeleteAll(){
+        this.setState({
+            students : []
+        })
+    }
+
     render() {
         const learners = this.state.students;
         if (!learners.length){
@@ -30,12 +45,18 @@ export default class Classroom extends Component {
         else{
             return (
                 <div>
+
                     <h1>Liste des Étudiants</h1>
                     <ul>
                         {
-                            learners.map(learner => <Student key={learner.id}  nom={learner.nom} />) 
-                        }</ul>
-                </div>
+                            learners.map(learner => <Student key={learner.id}
+                                  learner={learner} 
+                                  handleDelete={this.handleDelete} />) 
+                        }
+                    </ul>
+                    <button onClick={this.handleDeleteAll.bind(this)}>Delete All</button>
+
+                </div>  
             )
         }
     }
