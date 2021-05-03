@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Fri Apr 30 12:43:52 GMT 2021 -->
+
+<?xml-stylesheet href="der.xsl" type="text/xsl"  ?>
+
+
+
+<der>
+	<domaine>
+		<nomDomaine>Agriculture</nomDomaine>
+		<responsable>Jean Claude Kébé</responsable>
+		<url>agriculture.xml</url>
+	</domaine>
+	<domaine>
+		<nomDomaine>Elevage</nomDomaine>
+		<responsable>Fatima Diawara</responsable>
+		<url>elevage.xml</url>
+	</domaine>
+	<domaine>
+		<nomDomaine>Restauration</nomDomaine>
+		<responsable> Maréma NDOYE</responsable>
+		<url>restauration.xml</url>
+	</domaine>
+	<domaine>
+		<nomDomaine>Artisanat</nomDomaine>
+		<responsable>Khadim Leye</responsable>
+		<url>artisanat.xml</url>
+	</domaine>
+	<domaine>
+		<nomDomaine>Pêche</nomDomaine>
+		<responsable>Abdallah NDOYE</responsable>
+		<url>peche.xml</url>
+	</domaine>
+</der>
