@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Mon May 03 15:24:46 GMT 2021 -->
+
+
+<?xml-stylesheet href="elevage.xsl" type="text/xsl"  ?>
+
+
+<domaine>
+<projet>
+	<nom>Champ de Piment</nom>
+	<budget>2000000</budget>
+	<responsable>Malaw Sané</responsable>
+	<dateDebut>10/10/2021</dateDebut>
+	<duree>6 mois</duree>
+	<equipe>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url><url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+	</equipe>
+</projet>
+<projet>
+	<nom>Champ de Piment</nom>
+	<budget>2000000</budget>
+	<responsable>Malaw Sané</responsable>
+	<dateDebut>10/10/2021</dateDebut>
+	<duree>6 mois</duree>
+	<equipe>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+	</equipe>
+</projet>
+
+<projet>
+	<nom>Champ de Piment</nom>
+	<budget>2000000</budget>
+	<responsable>Malaw Sané</responsable>
+	<dateDebut>10/10/2021</dateDebut>
+	<duree>6 mois</duree>
+	<equipe>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+	</equipe>
+</projet>
+
+<projet>
+	<nom>Champ de Piment</nom>
+	<budget>2000000</budget>
+	<responsable>Malaw Sané</responsable>
+	<dateDebut>10/10/2021</dateDebut>
+	<duree>6 mois</duree>
+	<equipe>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+	</equipe>
+</projet>
+
+<projet>
+	<nom>Champ de Piment</nom>
+	<budget>2000000</budget>
+	<responsable>Malaw Sané</responsable>
+	<dateDebut>10/10/2021</dateDebut>
+	<duree>6 mois</duree>
+	<equipe>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+	</equipe>
+</projet>
+
+<projet>
+	<nom>Champ de Piment</nom>
+	<budget>2000000</budget>
+	<responsable>Malaw Sané</responsable>
+	<dateDebut>10/10/2021</dateDebut>
+	<duree>6 mois</duree>
+	<equipe>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+	</equipe>
+</projet>
+
+<projet>
+	<nom>Champ de Piment</nom>
+	<budget>2000000</budget>
+	<responsable>Malaw Sané</responsable>
+	<dateDebut>10/10/2021</dateDebut>
+	<duree>6 mois</duree>
+	<equipe>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+		<membre>
+			<nom>Khady Sané</nom>
+			<url>Users/khadesane.xml</url>
+		</membre>
+	</equipe>
+</projet>
+</domaine>
+
