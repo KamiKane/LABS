@@ -11,7 +11,7 @@
 		<nomDomaine>Agriculture</nomDomaine>
 		<responsable>
 			<nom>Jean Claude Kébé</nom>
-			<url>../users/responsables/jeanclaudekebe.xml</url>
+			<url>users/jeanclaudekebe.xml</url>
 		</responsable>
 		<url>agriculture.xml</url>
 	</domaine>
@@ -19,7 +19,7 @@
 		<nomDomaine>Elevage</nomDomaine>
 		<responsable>
 			<nom>Fatima Diawara</nom>
-			<url>../users/responsables/fatimadiawara.xml</url>
+			<url>users/fatimadiawara.xml</url>
 		</responsable>
 		<url>elevage.xml</url>
 	</domaine>
@@ -27,7 +27,7 @@
 		<nomDomaine>Restauration</nomDomaine>
 		<responsable> 
 			<nom>Maréma Gueye</nom>
-			<url>../users/responsables/maremagueye.xml</url>
+			<url>users/maremagueye.xml</url>
 		</responsable>
 		<url>restauration.xml</url>
 	</domaine>
@@ -35,7 +35,7 @@
 		<nomDomaine>Artisanat</nomDomaine>
 		<responsable>
 			<nom>Khadim Leye</nom>
-			<url>../users/responsables/khadimleye.xml</url>
+			<url>users/khadimleye.xml</url>
 		</responsable>
 		<url>artisanat.xml</url>
 	</domaine>
@@ -43,7 +43,7 @@
 		<nomDomaine>Pêche</nomDomaine>
 		<responsable>
 			<nom>Abdallah NDOYE</nom>
-			<url>../users/responsables/abdallahndoye.xml</url>
+			<url>users/abdallahndoye.xml</url>
 		</responsable>
 		<url>peche.xml</url>
 	</domaine>
