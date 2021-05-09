@@ -1,13 +1,13 @@
 import React from 'react'
-import {link} from 'react-router-dom'
+import {Link} from 'react-router-dom'
 
 export default function Header() {
     return (
         <header>
             <h1>React Classroom App</h1>
             <nav>
-                <link to="/">Home</link> &nbsp; |&nbsp;
-                <link to="/about">About</link>
+                <Link to="/">Home</Link> &nbsp; |&nbsp;
+                <Link to="/about">About</Link>
             </nav>
         </header>
     )

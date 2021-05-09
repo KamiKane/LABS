@@ -8,8 +8,9 @@ function App() {
   return (
     
     <BrowserRouter>
-    
+      <Header/>
       <Switch>
+      
         <Route exact path="/">
           <Classroom nom="JS Dev" />
         </Route>

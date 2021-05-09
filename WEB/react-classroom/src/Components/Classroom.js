@@ -37,9 +37,7 @@ export default class Classroom extends Component {
 
 
     handleDeleteAll(){
-        this.setState({
-            students : []
-        })
+       
     }
 
     handleAdd = nom =>{
