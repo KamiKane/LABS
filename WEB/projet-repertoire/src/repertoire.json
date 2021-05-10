@@ -1,0 +1,25 @@
+{
+  "repertoire": [
+    {
+      "id": 1,
+      "nom": "NDOYE",
+      "prenom": "Baye Serigne",
+      "mail": "ndoybaye@gmail.com",
+      "tel": "+221784776148"
+    },
+    {
+      "id": 2,
+      "nom": "SECK",
+      "prenom": "NDEYE Ngone",
+      "mail": "seckmami@gmail.com",
+      "tel": "+221772552828"
+    },
+    {
+      "nom": "hello",
+      "prenom": "world",
+      "email": "serigne@jkzv.cilq",
+      "tel": "+2213898393",
+      "id": 3
+    }
+  ]
+}
